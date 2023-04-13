@@ -5,3 +5,9 @@ let segundoNumero;
 segundoNumero= prompt('introduzca un numero')
 vsuma = primerNumero+segundoNumero;
 alert('La suma es '+vsuma)
+vresta = primerNumero-segundoNumero
+alert('La resta es'+vresta)
+vmultiplicacion = primerNumero*segundoNumero
+alert('La multiplicación es'+vmultiplicacion)
+vdivision = primerNumero/segundoNumero
+alert('La división es'+vdivision)

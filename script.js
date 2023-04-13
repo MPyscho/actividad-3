@@ -1,3 +1,3 @@
-alert('Hola, a continuación se le pedirá un número para reaizar unas operaciones ');
 let nombreDeLaVariable = 'primerNumero';
+alert('Hola, a continuación se le pedirá un número para reaizar unas operaciones ');
 nombreDeLaVariable = prompt("introduzca un numero");
